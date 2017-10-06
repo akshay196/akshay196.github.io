@@ -55,8 +55,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: akshay196
-  email: "youremail@domain.com"
+  name: ©akshay196
+  email: "akgaikwad196@yahoo.com"
   facebook: akshay196  # eg. daattali
   github: akshay196    # eg. daattali
   twitter: akshayg196   # eg. daattali
@@ -104,7 +104,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "akshay196.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
