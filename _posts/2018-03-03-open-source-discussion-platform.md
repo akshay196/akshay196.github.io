@@ -24,7 +24,7 @@ Next, we started with our original topic of the day. Students gathered there for
 
 Starting from basics, we discussed about use cases of the Ansible. We saw the functionality as well. We understood concepts like inventory, hosts, modules, playbooks etc. Many of them, comes up with an errors while running ansible commands and executing playbooks. They shared their solution for the errors with others, this achieved main purpose behind this session.
 
-![First open source Discussion Members](images/open-source-discuss-group.jpeg)
+![First open source Discussion Members](/img/open-source-discuss-group.jpeg)
 
 In this 2 hrs of session, I personally learnt many things. We will be continue such session in every week for us and for all enthusiast.
 
