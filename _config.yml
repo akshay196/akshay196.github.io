@@ -17,13 +17,15 @@ baseurl: ""
 title: Akshay's Blog
 
 # Short description of your site
-description: This site containts my work related to tech, art and some experiments
+description: This site containts my work related to tech, art and experiments on Linux system.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Project: https://enhance-manageiq.github.io
+  Projects:
+    - Notice Board: "https://github.com/akshay196/notice-board"
+    - Enhance ManageIQ: "https://github.com/enhance-manageiq"
   About Me: "aboutme"
   Author's home: "http://github.com/akshay196"
 
@@ -52,7 +54,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: ©akshay196
+  name: Akshay
   email: "akgaikwad196@yahoo.com"
   facebook: akshay196  # eg. daattali
   github: akshay196    # eg. daattali
